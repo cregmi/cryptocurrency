@@ -1,0 +1,22 @@
+.resultArea{
+	position: absolute;
+	background: floralwhite;
+	margin-top: .3rem;
+	width: 100%;
+	line-height: 2rem;
+}
+
+
+ul{
+	list-style-type: none;
+	padding: 0;
+	text-align: left;
+}
+ul li{
+	padding-top: 5px;
+	padding-left: 1rem;
+}
+
+li:nth-child(even){
+	background: lightgrey;
+}

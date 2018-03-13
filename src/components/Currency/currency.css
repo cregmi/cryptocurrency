@@ -1,0 +1,15 @@
+.increasing{
+	color: green;
+}
+
+.decreasing{
+	color: red;
+}
+
+td{
+	line-height: 3rem;
+}
+
+.currencies{
+	color: #428bca;
+}
